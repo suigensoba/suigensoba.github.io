@@ -41673,9 +41673,7 @@ function (_Component) {
         loading: this.state.loading
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_SaveFile__WEBPACK_IMPORTED_MODULE_3__["default"], {
         loaded: this.state.loaded
-      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "App-listHeader"
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ListEdit__WEBPACK_IMPORTED_MODULE_1__["default"], {
+      })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ListEdit__WEBPACK_IMPORTED_MODULE_1__["default"], {
         listedFunc: function listedFunc(src, dest) {
           return _this3.swapDbLine(src, dest);
         },
