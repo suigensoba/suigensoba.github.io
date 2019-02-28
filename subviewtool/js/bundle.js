@@ -41646,7 +41646,7 @@ function (_Component) {
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h5", null, "\u30AF\u30EA\u30B9\u30BF\u306E\u30B5\u30D6\u30D3\u30E5\u30FC\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u4E26\u3073\u66FF\u3048\u308B\u3060\u3051\u306E\u30C4\u30FC\u30EB")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "App-author"
       }, "\u4F5C\u3063\u305F\u4EBA:", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-        href: "https://horizonglow2.blogspot.com/"
+        href: "https://blog.horizon-glow.com/"
       }, "\u30B9\u30A4\u30B2\u30F3\u30BD\u30D0")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "App-sns"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -41655,7 +41655,7 @@ function (_Component) {
         "data-show-count": "false"
       }, "Tweet")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "App-desc"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "CELSYS CLIP STUDIO PAINT PRO/EX\u306E\u30B5\u30D6\u30D3\u30E5\u30FC\u306B\u767B\u9332\u3055\u308C\u305F\u30A2\u30A4\u30C6\u30E0\u306E\u9806\u756A\u3092\u4E26\u3073\u66FF\u3048\u307E\u3059\u3002"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u3053\u306E\u30C4\u30FC\u30EB\u306F\u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u3092\u30ED\u30FC\u30AB\u30EBPC\u306E\u307F\u3067\u51E6\u7406\u3057\u307E\u3059\u3002(sql.js\u3059\u3052\u3048)", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "\u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u3092\u3069\u3053\u304B\u306B\u9001\u4FE1\u3059\u308B\u3053\u3068\u306F\u3042\u308A\u307E\u305B\u3093\u3002")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u78BA\u8A8D\u3057\u305F\u30AF\u30EA\u30B9\u30BF\u306E\u30D0\u30FC\u30B8\u30E7\u30F3: 1.85", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "\u4EE5\u4E0B\u306E\u30D6\u30E9\u30A6\u30B6\u3067\u78BA\u8A8D:Chrome/Mozilla Firefox/Edge/Safari"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_accessible_accordion__WEBPACK_IMPORTED_MODULE_5__["Accordion"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_accessible_accordion__WEBPACK_IMPORTED_MODULE_5__["AccordionItem"], {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "CELSYS CLIP STUDIO PAINT PRO/EX\u306E\u30B5\u30D6\u30D3\u30E5\u30FC\u306B\u767B\u9332\u3055\u308C\u305F\u30A2\u30A4\u30C6\u30E0\u306E\u9806\u756A\u3092\u4E26\u3073\u66FF\u3048\u307E\u3059\u3002"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u3053\u306E\u30C4\u30FC\u30EB\u306F\u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u3092\u30ED\u30FC\u30AB\u30EBPC\u306E\u307F\u3067\u51E6\u7406\u3057\u307E\u3059\u3002(sql.js\u3059\u3052\u3048)", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("b", null, "\u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u3092\u3069\u3053\u304B\u306B\u9001\u4FE1\u3059\u308B\u3053\u3068\u306F\u3042\u308A\u307E\u305B\u3093\u3002")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "\u78BA\u8A8D\u3057\u305F\u30AF\u30EA\u30B9\u30BF\u306E\u30D0\u30FC\u30B8\u30E7\u30F3: 1.86", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "\u4EE5\u4E0B\u306E\u30D6\u30E9\u30A6\u30B6\u3067\u78BA\u8A8D:Chrome/Mozilla Firefox/Edge/Safari"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_accessible_accordion__WEBPACK_IMPORTED_MODULE_5__["Accordion"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_accessible_accordion__WEBPACK_IMPORTED_MODULE_5__["AccordionItem"], {
         expanded: true
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_accessible_accordion__WEBPACK_IMPORTED_MODULE_5__["AccordionItemTitle"], null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "\u4F7F\u3044\u65B9"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "accordion__arrow",
@@ -41678,7 +41678,7 @@ function (_Component) {
           return _this3.swapDbLine(src, dest);
         },
         ref: this.ListEditComponent
-      }));
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, "build 20190228"));
     }
   }]);
 
