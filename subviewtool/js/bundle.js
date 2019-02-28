@@ -41679,7 +41679,7 @@ function (_Component) {
         },
         ref: this.ListEditComponent
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-        className: "App-title-text"
+        className: "App-desc"
       }, "build 20190228"));
     }
   }]);
