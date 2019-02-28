@@ -41678,7 +41678,9 @@ function (_Component) {
           return _this3.swapDbLine(src, dest);
         },
         ref: this.ListEditComponent
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, "build 20190228"));
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+        className: "App-title-text"
+      }, "build 20190228"));
     }
   }]);
 
